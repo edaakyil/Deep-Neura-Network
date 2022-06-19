@@ -1,1 +1,1 @@
-# Deep-Neura-Network
+# Deep Neural Network
